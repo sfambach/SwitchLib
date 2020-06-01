@@ -6,3 +6,7 @@ If the press time is longer than _longPressTime, it is a long press other whise 
 Visit http://www.fambach.net for more informations
 
 License GPLv2 or higher ;)
+
+## Update
+I found a better lib, maybe you want to try this one:
+https://github.com/mathertel/OneButton
