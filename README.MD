@@ -1,5 +1,5 @@
 # Deprecated ⛔️
-I wrote another lib with more functionality
+I wrote another lib with more functionalities
 See: https://github.com/sfambach/CustomKeyboard
 
 ## Non blocking switch library
