@@ -1,4 +1,7 @@
-Deprecated ⛔️
+#Deprecated ⛔️
+I wrote another lib with more functionality
+See: https://github.com/sfambach/CustomKeyboard
+
 ## Non blocking switch library
 It is possible to add 1 to n switches.
 After a switch was pressed the callback function will be called.
